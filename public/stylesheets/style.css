@@ -1,0 +1,27 @@
+#searchh1 {
+  margin-top: 20%;
+  margin-bottom: 1rem;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.card {
+  margin-left: 12.5%;
+}
+
+.card-image {
+  height: 25rem;
+}
+
+#searchHeader {
+  margin-left: 12.5%;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+}
+
+#btnSearch {
+  margin-left: 10px;
+}
