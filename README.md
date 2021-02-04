@@ -1,5 +1,5 @@
 # MovieApp
 
-Simple app to search for movies using TheMovieDB API. 
+## Simple app to search for movies using TheMovieDB API. 
 
-With Node.js, Express.js, using ejs template
+### I used Node.js, Express.js, ejs, bootstrap and npm packages
